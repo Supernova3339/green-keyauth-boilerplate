@@ -1,0 +1,1231 @@
+﻿
+namespace tommynulled
+{
+    partial class Auth
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            this.components = new System.ComponentModel.Container();
+            Kimtoo.ValidationProvider.ValidationObject validationObject3 = new Kimtoo.ValidationProvider.ValidationObject();
+            Kimtoo.ValidationProvider.ValidationObject validationObject2 = new Kimtoo.ValidationProvider.ValidationObject();
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Auth));
+            Kimtoo.ValidationProvider.ValidationObject validationObject4 = new Kimtoo.ValidationProvider.ValidationObject();
+            Kimtoo.ValidationProvider.ValidationObject validationObject5 = new Kimtoo.ValidationProvider.ValidationObject();
+            Kimtoo.ValidationProvider.ValidationObject validationObject23 = new Kimtoo.ValidationProvider.ValidationObject();
+            Utilities.BunifuPages.BunifuAnimatorNS.Animation animation1 = new Utilities.BunifuPages.BunifuAnimatorNS.Animation();
+            Kimtoo.ValidationProvider.ValidationObject validationObject12 = new Kimtoo.ValidationProvider.ValidationObject();
+            Kimtoo.ValidationProvider.ValidationObject validationObject8 = new Kimtoo.ValidationProvider.ValidationObject();
+            Kimtoo.ValidationProvider.ValidationObject validationObject22 = new Kimtoo.ValidationProvider.ValidationObject();
+            Kimtoo.ValidationProvider.ValidationObject validationObject17 = new Kimtoo.ValidationProvider.ValidationObject();
+            Kimtoo.ValidationProvider.ValidationObject validationObject18 = new Kimtoo.ValidationProvider.ValidationObject();
+            Kimtoo.ValidationProvider.ValidationObject validationObject19 = new Kimtoo.ValidationProvider.ValidationObject();
+            Kimtoo.ValidationProvider.ValidationObject validationObject6 = new Kimtoo.ValidationProvider.ValidationObject();
+            Kimtoo.ValidationProvider.ValidationObject validationObject7 = new Kimtoo.ValidationProvider.ValidationObject();
+            Kimtoo.ValidationProvider.ValidationObject validationObject9 = new Kimtoo.ValidationProvider.ValidationObject();
+            Kimtoo.ValidationProvider.ValidationObject validationObject10 = new Kimtoo.ValidationProvider.ValidationObject();
+            Bunifu.UI.WinForms.BunifuTextBox.StateProperties stateProperties1 = new Bunifu.UI.WinForms.BunifuTextBox.StateProperties();
+            Bunifu.UI.WinForms.BunifuTextBox.StateProperties stateProperties2 = new Bunifu.UI.WinForms.BunifuTextBox.StateProperties();
+            Bunifu.UI.WinForms.BunifuTextBox.StateProperties stateProperties3 = new Bunifu.UI.WinForms.BunifuTextBox.StateProperties();
+            Bunifu.UI.WinForms.BunifuTextBox.StateProperties stateProperties4 = new Bunifu.UI.WinForms.BunifuTextBox.StateProperties();
+            Kimtoo.ValidationProvider.ValidationObject validationObject11 = new Kimtoo.ValidationProvider.ValidationObject();
+            Bunifu.UI.WinForms.BunifuTextBox.StateProperties stateProperties5 = new Bunifu.UI.WinForms.BunifuTextBox.StateProperties();
+            Bunifu.UI.WinForms.BunifuTextBox.StateProperties stateProperties6 = new Bunifu.UI.WinForms.BunifuTextBox.StateProperties();
+            Bunifu.UI.WinForms.BunifuTextBox.StateProperties stateProperties7 = new Bunifu.UI.WinForms.BunifuTextBox.StateProperties();
+            Bunifu.UI.WinForms.BunifuTextBox.StateProperties stateProperties8 = new Bunifu.UI.WinForms.BunifuTextBox.StateProperties();
+            Kimtoo.ValidationProvider.ValidationObject validationObject13 = new Kimtoo.ValidationProvider.ValidationObject();
+            Kimtoo.ValidationProvider.ValidationObject validationObject14 = new Kimtoo.ValidationProvider.ValidationObject();
+            Kimtoo.ValidationProvider.ValidationObject validationObject15 = new Kimtoo.ValidationProvider.ValidationObject();
+            Kimtoo.ValidationProvider.ValidationObject validationObject16 = new Kimtoo.ValidationProvider.ValidationObject();
+            Bunifu.UI.WinForms.BunifuTextBox.StateProperties stateProperties9 = new Bunifu.UI.WinForms.BunifuTextBox.StateProperties();
+            Bunifu.UI.WinForms.BunifuTextBox.StateProperties stateProperties10 = new Bunifu.UI.WinForms.BunifuTextBox.StateProperties();
+            Bunifu.UI.WinForms.BunifuTextBox.StateProperties stateProperties11 = new Bunifu.UI.WinForms.BunifuTextBox.StateProperties();
+            Bunifu.UI.WinForms.BunifuTextBox.StateProperties stateProperties12 = new Bunifu.UI.WinForms.BunifuTextBox.StateProperties();
+            Kimtoo.ValidationProvider.ValidationObject validationObject20 = new Kimtoo.ValidationProvider.ValidationObject();
+            Bunifu.UI.WinForms.BunifuTextBox.StateProperties stateProperties13 = new Bunifu.UI.WinForms.BunifuTextBox.StateProperties();
+            Bunifu.UI.WinForms.BunifuTextBox.StateProperties stateProperties14 = new Bunifu.UI.WinForms.BunifuTextBox.StateProperties();
+            Bunifu.UI.WinForms.BunifuTextBox.StateProperties stateProperties15 = new Bunifu.UI.WinForms.BunifuTextBox.StateProperties();
+            Bunifu.UI.WinForms.BunifuTextBox.StateProperties stateProperties16 = new Bunifu.UI.WinForms.BunifuTextBox.StateProperties();
+            Kimtoo.ValidationProvider.ValidationObject validationObject21 = new Kimtoo.ValidationProvider.ValidationObject();
+            Bunifu.UI.WinForms.BunifuTextBox.StateProperties stateProperties17 = new Bunifu.UI.WinForms.BunifuTextBox.StateProperties();
+            Bunifu.UI.WinForms.BunifuTextBox.StateProperties stateProperties18 = new Bunifu.UI.WinForms.BunifuTextBox.StateProperties();
+            Bunifu.UI.WinForms.BunifuTextBox.StateProperties stateProperties19 = new Bunifu.UI.WinForms.BunifuTextBox.StateProperties();
+            Bunifu.UI.WinForms.BunifuTextBox.StateProperties stateProperties20 = new Bunifu.UI.WinForms.BunifuTextBox.StateProperties();
+            Bunifu.UI.WinForms.BunifuButton.BunifuButton2.BorderEdges borderEdges1 = new Bunifu.UI.WinForms.BunifuButton.BunifuButton2.BorderEdges();
+            Kimtoo.ValidationProvider.ValidationObject validationObject24 = new Kimtoo.ValidationProvider.ValidationObject();
+            Kimtoo.ValidationProvider.ValidationObject validationObject1 = new Kimtoo.ValidationProvider.ValidationObject();
+            this.panel1 = new System.Windows.Forms.Panel();
+            this.button1 = new System.Windows.Forms.Button();
+            this.bunifuLabel2 = new Bunifu.UI.WinForms.BunifuLabel();
+            this.bunifuLabel3 = new Bunifu.UI.WinForms.BunifuLabel();
+            this.bunifuPages1 = new Bunifu.UI.WinForms.BunifuPages();
+            this.tabPage1 = new System.Windows.Forms.TabPage();
+            this.bunifuLabel6 = new Bunifu.UI.WinForms.BunifuLabel();
+            this.tabPage2 = new System.Windows.Forms.TabPage();
+            this.bunifuLabel5 = new Bunifu.UI.WinForms.BunifuLabel();
+            this.bunifuLabel1 = new Bunifu.UI.WinForms.BunifuLabel();
+            this.bunifuLabel4 = new Bunifu.UI.WinForms.BunifuLabel();
+            this.bunifuDragControl1 = new Bunifu.Framework.UI.BunifuDragControl(this.components);
+            this.bunifuSnackbar1 = new Bunifu.UI.WinForms.BunifuSnackbar(this.components);
+            this.validationProvider1 = new Kimtoo.ValidationProvider.ValidationProvider();
+            this.iconButton5 = new FontAwesome.Sharp.IconButton();
+            this.iconButton4 = new FontAwesome.Sharp.IconButton();
+            this.bunifuCheckBox1 = new Bunifu.UI.WinForms.BunifuCheckBox();
+            this.bunifuLoginUser = new Bunifu.UI.WinForms.BunifuTextBox();
+            this.bunifuPassUser = new Bunifu.UI.WinForms.BunifuTextBox();
+            this.iconButton3 = new FontAwesome.Sharp.IconButton();
+            this.iconButton1 = new FontAwesome.Sharp.IconButton();
+            this.iconButton2 = new FontAwesome.Sharp.IconButton();
+            this.bunifuLicenseRegister = new Bunifu.UI.WinForms.BunifuTextBox();
+            this.bunifuUserRegister = new Bunifu.UI.WinForms.BunifuTextBox();
+            this.bunifuPassRegister = new Bunifu.UI.WinForms.BunifuTextBox();
+            this.bunifuButton21 = new Bunifu.UI.WinForms.BunifuButton.BunifuButton2();
+            this.buttonGroup1 = new Kimtoo.ButtonGroup();
+            this.panel1.SuspendLayout();
+            this.bunifuPages1.SuspendLayout();
+            this.tabPage1.SuspendLayout();
+            this.tabPage2.SuspendLayout();
+            this.SuspendLayout();
+            // 
+            // panel1
+            // 
+            this.panel1.BackColor = System.Drawing.Color.Green;
+            this.panel1.Controls.Add(this.buttonGroup1);
+            this.panel1.Controls.Add(this.button1);
+            this.panel1.Dock = System.Windows.Forms.DockStyle.Top;
+            validationObject3.CustomErrorMessage = "";
+            validationObject3.Optional = false;
+            validationObject3.PropertyName = "Text";
+            validationObject3.Regex = null;
+            validationObject3.ValidationType = Kimtoo.ValidationProvider.ValidationTypes.None;
+            this.validationProvider1.SetLink(this.panel1, validationObject3);
+            this.panel1.Location = new System.Drawing.Point(0, 0);
+            this.panel1.Name = "panel1";
+            this.panel1.Size = new System.Drawing.Size(400, 54);
+            this.panel1.TabIndex = 0;
+            // 
+            // button1
+            // 
+            this.button1.Dock = System.Windows.Forms.DockStyle.Right;
+            this.button1.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
+            this.button1.FlatAppearance.BorderSize = 0;
+            this.button1.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
+            this.button1.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
+            this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
+            this.button1.ForeColor = System.Drawing.Color.WhiteSmoke;
+            validationObject2.CustomErrorMessage = "";
+            validationObject2.Optional = false;
+            validationObject2.PropertyName = "Text";
+            validationObject2.Regex = null;
+            validationObject2.ValidationType = Kimtoo.ValidationProvider.ValidationTypes.None;
+            this.validationProvider1.SetLink(this.button1, validationObject2);
+            this.button1.Location = new System.Drawing.Point(344, 0);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(56, 54);
+            this.button1.TabIndex = 1;
+            this.button1.Text = "X";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
+            // 
+            // bunifuLabel2
+            // 
+            this.bunifuLabel2.AllowParentOverrides = false;
+            this.bunifuLabel2.AutoEllipsis = false;
+            this.bunifuLabel2.Cursor = System.Windows.Forms.Cursors.Default;
+            this.bunifuLabel2.CursorType = System.Windows.Forms.Cursors.Default;
+            this.bunifuLabel2.Font = new System.Drawing.Font("Segoe UI", 9F);
+            this.bunifuLabel2.ForeColor = System.Drawing.Color.DimGray;
+            validationObject4.CustomErrorMessage = "";
+            validationObject4.Optional = false;
+            validationObject4.PropertyName = "Text";
+            validationObject4.Regex = null;
+            validationObject4.ValidationType = Kimtoo.ValidationProvider.ValidationTypes.None;
+            this.validationProvider1.SetLink(this.bunifuLabel2, validationObject4);
+            this.bunifuLabel2.Location = new System.Drawing.Point(14, 13);
+            this.bunifuLabel2.Name = "bunifuLabel2";
+            this.bunifuLabel2.RightToLeft = System.Windows.Forms.RightToLeft.No;
+            this.bunifuLabel2.Size = new System.Drawing.Size(53, 15);
+            this.bunifuLabel2.TabIndex = 3;
+            this.bunifuLabel2.Text = "Username";
+            this.bunifuLabel2.TextAlignment = System.Drawing.ContentAlignment.TopLeft;
+            this.bunifuLabel2.TextFormat = Bunifu.UI.WinForms.BunifuLabel.TextFormattingOptions.Default;
+            // 
+            // bunifuLabel3
+            // 
+            this.bunifuLabel3.AllowParentOverrides = false;
+            this.bunifuLabel3.AutoEllipsis = false;
+            this.bunifuLabel3.CursorType = null;
+            this.bunifuLabel3.Font = new System.Drawing.Font("Segoe UI", 9F);
+            this.bunifuLabel3.ForeColor = System.Drawing.Color.DimGray;
+            validationObject5.CustomErrorMessage = "";
+            validationObject5.Optional = false;
+            validationObject5.PropertyName = "Text";
+            validationObject5.Regex = null;
+            validationObject5.ValidationType = Kimtoo.ValidationProvider.ValidationTypes.None;
+            this.validationProvider1.SetLink(this.bunifuLabel3, validationObject5);
+            this.bunifuLabel3.Location = new System.Drawing.Point(14, 90);
+            this.bunifuLabel3.Name = "bunifuLabel3";
+            this.bunifuLabel3.RightToLeft = System.Windows.Forms.RightToLeft.No;
+            this.bunifuLabel3.Size = new System.Drawing.Size(50, 15);
+            this.bunifuLabel3.TabIndex = 4;
+            this.bunifuLabel3.Text = "Password";
+            this.bunifuLabel3.TextAlignment = System.Drawing.ContentAlignment.TopLeft;
+            this.bunifuLabel3.TextFormat = Bunifu.UI.WinForms.BunifuLabel.TextFormattingOptions.Default;
+            // 
+            // bunifuPages1
+            // 
+            this.bunifuPages1.Alignment = System.Windows.Forms.TabAlignment.Bottom;
+            this.bunifuPages1.AllowTransitions = false;
+            this.bunifuPages1.Controls.Add(this.tabPage1);
+            this.bunifuPages1.Controls.Add(this.tabPage2);
+            this.bunifuPages1.Dock = System.Windows.Forms.DockStyle.Fill;
+            validationObject23.CustomErrorMessage = "";
+            validationObject23.Optional = false;
+            validationObject23.PropertyName = "Text";
+            validationObject23.Regex = null;
+            validationObject23.ValidationType = Kimtoo.ValidationProvider.ValidationTypes.None;
+            this.validationProvider1.SetLink(this.bunifuPages1, validationObject23);
+            this.bunifuPages1.Location = new System.Drawing.Point(0, 54);
+            this.bunifuPages1.Multiline = true;
+            this.bunifuPages1.Name = "bunifuPages1";
+            this.bunifuPages1.Page = this.tabPage1;
+            this.bunifuPages1.PageIndex = 0;
+            this.bunifuPages1.PageName = "tabPage1";
+            this.bunifuPages1.PageTitle = "Login";
+            this.bunifuPages1.SelectedIndex = 0;
+            this.bunifuPages1.Size = new System.Drawing.Size(400, 225);
+            this.bunifuPages1.TabIndex = 7;
+            animation1.AnimateOnlyDifferences = false;
+            animation1.BlindCoeff = ((System.Drawing.PointF)(resources.GetObject("animation1.BlindCoeff")));
+            animation1.LeafCoeff = 0F;
+            animation1.MaxTime = 1F;
+            animation1.MinTime = 0F;
+            animation1.MosaicCoeff = ((System.Drawing.PointF)(resources.GetObject("animation1.MosaicCoeff")));
+            animation1.MosaicShift = ((System.Drawing.PointF)(resources.GetObject("animation1.MosaicShift")));
+            animation1.MosaicSize = 0;
+            animation1.Padding = new System.Windows.Forms.Padding(0);
+            animation1.RotateCoeff = 0F;
+            animation1.RotateLimit = 0F;
+            animation1.ScaleCoeff = ((System.Drawing.PointF)(resources.GetObject("animation1.ScaleCoeff")));
+            animation1.SlideCoeff = ((System.Drawing.PointF)(resources.GetObject("animation1.SlideCoeff")));
+            animation1.TimeCoeff = 0F;
+            animation1.TransparencyCoeff = 0F;
+            this.bunifuPages1.Transition = animation1;
+            this.bunifuPages1.TransitionType = Utilities.BunifuPages.BunifuAnimatorNS.AnimationType.Custom;
+            // 
+            // tabPage1
+            // 
+            this.tabPage1.Controls.Add(this.iconButton5);
+            this.tabPage1.Controls.Add(this.iconButton4);
+            this.tabPage1.Controls.Add(this.bunifuLabel6);
+            this.tabPage1.Controls.Add(this.bunifuCheckBox1);
+            this.tabPage1.Controls.Add(this.bunifuLoginUser);
+            this.tabPage1.Controls.Add(this.bunifuPassUser);
+            this.tabPage1.Controls.Add(this.bunifuLabel3);
+            this.tabPage1.Controls.Add(this.bunifuLabel2);
+            validationObject12.CustomErrorMessage = "";
+            validationObject12.Optional = false;
+            validationObject12.PropertyName = "Text";
+            validationObject12.Regex = null;
+            validationObject12.ValidationType = Kimtoo.ValidationProvider.ValidationTypes.None;
+            this.validationProvider1.SetLink(this.tabPage1, validationObject12);
+            this.tabPage1.Location = new System.Drawing.Point(4, 4);
+            this.tabPage1.Name = "tabPage1";
+            this.tabPage1.Padding = new System.Windows.Forms.Padding(3);
+            this.tabPage1.Size = new System.Drawing.Size(392, 199);
+            this.tabPage1.TabIndex = 0;
+            this.tabPage1.Text = "Login";
+            this.tabPage1.UseVisualStyleBackColor = true;
+            // 
+            // bunifuLabel6
+            // 
+            this.bunifuLabel6.AllowParentOverrides = false;
+            this.bunifuLabel6.AutoEllipsis = false;
+            this.bunifuLabel6.Cursor = System.Windows.Forms.Cursors.Default;
+            this.bunifuLabel6.CursorType = System.Windows.Forms.Cursors.Default;
+            this.bunifuLabel6.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
+            validationObject8.CustomErrorMessage = "";
+            validationObject8.Optional = false;
+            validationObject8.PropertyName = "Text";
+            validationObject8.Regex = null;
+            validationObject8.ValidationType = Kimtoo.ValidationProvider.ValidationTypes.None;
+            this.validationProvider1.SetLink(this.bunifuLabel6, validationObject8);
+            this.bunifuLabel6.Location = new System.Drawing.Point(14, 175);
+            this.bunifuLabel6.Name = "bunifuLabel6";
+            this.bunifuLabel6.RightToLeft = System.Windows.Forms.RightToLeft.No;
+            this.bunifuLabel6.Size = new System.Drawing.Size(69, 13);
+            this.bunifuLabel6.TabIndex = 6;
+            this.bunifuLabel6.Text = "Remember Me";
+            this.bunifuLabel6.TextAlignment = System.Drawing.ContentAlignment.TopLeft;
+            this.bunifuLabel6.TextFormat = Bunifu.UI.WinForms.BunifuLabel.TextFormattingOptions.Default;
+            // 
+            // tabPage2
+            // 
+            this.tabPage2.Controls.Add(this.iconButton3);
+            this.tabPage2.Controls.Add(this.iconButton1);
+            this.tabPage2.Controls.Add(this.iconButton2);
+            this.tabPage2.Controls.Add(this.bunifuLicenseRegister);
+            this.tabPage2.Controls.Add(this.bunifuLabel5);
+            this.tabPage2.Controls.Add(this.bunifuLabel1);
+            this.tabPage2.Controls.Add(this.bunifuLabel4);
+            this.tabPage2.Controls.Add(this.bunifuUserRegister);
+            this.tabPage2.Controls.Add(this.bunifuPassRegister);
+            validationObject22.CustomErrorMessage = "";
+            validationObject22.Optional = false;
+            validationObject22.PropertyName = "Text";
+            validationObject22.Regex = null;
+            validationObject22.ValidationType = Kimtoo.ValidationProvider.ValidationTypes.None;
+            this.validationProvider1.SetLink(this.tabPage2, validationObject22);
+            this.tabPage2.Location = new System.Drawing.Point(4, 4);
+            this.tabPage2.Name = "tabPage2";
+            this.tabPage2.Padding = new System.Windows.Forms.Padding(3);
+            this.tabPage2.Size = new System.Drawing.Size(392, 199);
+            this.tabPage2.TabIndex = 1;
+            this.tabPage2.Text = "Register";
+            this.tabPage2.UseVisualStyleBackColor = true;
+            // 
+            // bunifuLabel5
+            // 
+            this.bunifuLabel5.AllowParentOverrides = false;
+            this.bunifuLabel5.AutoEllipsis = false;
+            this.bunifuLabel5.CursorType = null;
+            this.bunifuLabel5.Font = new System.Drawing.Font("Segoe UI", 9F);
+            this.bunifuLabel5.ForeColor = System.Drawing.Color.DimGray;
+            validationObject17.CustomErrorMessage = "";
+            validationObject17.Optional = false;
+            validationObject17.PropertyName = "Text";
+            validationObject17.Regex = null;
+            validationObject17.ValidationType = Kimtoo.ValidationProvider.ValidationTypes.None;
+            this.validationProvider1.SetLink(this.bunifuLabel5, validationObject17);
+            this.bunifuLabel5.Location = new System.Drawing.Point(14, 135);
+            this.bunifuLabel5.Name = "bunifuLabel5";
+            this.bunifuLabel5.RightToLeft = System.Windows.Forms.RightToLeft.No;
+            this.bunifuLabel5.Size = new System.Drawing.Size(39, 15);
+            this.bunifuLabel5.TabIndex = 10;
+            this.bunifuLabel5.Text = "License";
+            this.bunifuLabel5.TextAlignment = System.Drawing.ContentAlignment.TopLeft;
+            this.bunifuLabel5.TextFormat = Bunifu.UI.WinForms.BunifuLabel.TextFormattingOptions.Default;
+            // 
+            // bunifuLabel1
+            // 
+            this.bunifuLabel1.AllowParentOverrides = false;
+            this.bunifuLabel1.AutoEllipsis = false;
+            this.bunifuLabel1.CursorType = null;
+            this.bunifuLabel1.Font = new System.Drawing.Font("Segoe UI", 9F);
+            this.bunifuLabel1.ForeColor = System.Drawing.Color.DimGray;
+            validationObject18.CustomErrorMessage = "";
+            validationObject18.Optional = false;
+            validationObject18.PropertyName = "Text";
+            validationObject18.Regex = null;
+            validationObject18.ValidationType = Kimtoo.ValidationProvider.ValidationTypes.None;
+            this.validationProvider1.SetLink(this.bunifuLabel1, validationObject18);
+            this.bunifuLabel1.Location = new System.Drawing.Point(14, 72);
+            this.bunifuLabel1.Name = "bunifuLabel1";
+            this.bunifuLabel1.RightToLeft = System.Windows.Forms.RightToLeft.No;
+            this.bunifuLabel1.Size = new System.Drawing.Size(50, 15);
+            this.bunifuLabel1.TabIndex = 8;
+            this.bunifuLabel1.Text = "Password";
+            this.bunifuLabel1.TextAlignment = System.Drawing.ContentAlignment.TopLeft;
+            this.bunifuLabel1.TextFormat = Bunifu.UI.WinForms.BunifuLabel.TextFormattingOptions.Default;
+            // 
+            // bunifuLabel4
+            // 
+            this.bunifuLabel4.AllowParentOverrides = false;
+            this.bunifuLabel4.AutoEllipsis = false;
+            this.bunifuLabel4.Cursor = System.Windows.Forms.Cursors.Default;
+            this.bunifuLabel4.CursorType = System.Windows.Forms.Cursors.Default;
+            this.bunifuLabel4.Font = new System.Drawing.Font("Segoe UI", 9F);
+            this.bunifuLabel4.ForeColor = System.Drawing.Color.DimGray;
+            validationObject19.CustomErrorMessage = "";
+            validationObject19.Optional = false;
+            validationObject19.PropertyName = "Text";
+            validationObject19.Regex = null;
+            validationObject19.ValidationType = Kimtoo.ValidationProvider.ValidationTypes.None;
+            this.validationProvider1.SetLink(this.bunifuLabel4, validationObject19);
+            this.bunifuLabel4.Location = new System.Drawing.Point(14, 13);
+            this.bunifuLabel4.Name = "bunifuLabel4";
+            this.bunifuLabel4.RightToLeft = System.Windows.Forms.RightToLeft.No;
+            this.bunifuLabel4.Size = new System.Drawing.Size(53, 15);
+            this.bunifuLabel4.TabIndex = 7;
+            this.bunifuLabel4.Text = "Username";
+            this.bunifuLabel4.TextAlignment = System.Drawing.ContentAlignment.TopLeft;
+            this.bunifuLabel4.TextFormat = Bunifu.UI.WinForms.BunifuLabel.TextFormattingOptions.Default;
+            // 
+            // bunifuDragControl1
+            // 
+            this.bunifuDragControl1.Fixed = true;
+            this.bunifuDragControl1.Horizontal = true;
+            this.bunifuDragControl1.TargetControl = this.buttonGroup1;
+            this.bunifuDragControl1.Vertical = true;
+            // 
+            // bunifuSnackbar1
+            // 
+            this.bunifuSnackbar1.AllowDragging = false;
+            this.bunifuSnackbar1.AllowMultipleViews = false;
+            this.bunifuSnackbar1.ClickToClose = true;
+            this.bunifuSnackbar1.DoubleClickToClose = true;
+            this.bunifuSnackbar1.DurationAfterIdle = 3000;
+            this.bunifuSnackbar1.ErrorOptions.ActionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
+            this.bunifuSnackbar1.ErrorOptions.ActionBorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
+            this.bunifuSnackbar1.ErrorOptions.ActionBorderRadius = 1;
+            this.bunifuSnackbar1.ErrorOptions.ActionFont = new System.Drawing.Font("Segoe UI", 8.25F, System.Drawing.FontStyle.Bold);
+            this.bunifuSnackbar1.ErrorOptions.ActionForeColor = System.Drawing.Color.Black;
+            this.bunifuSnackbar1.ErrorOptions.BackColor = System.Drawing.Color.White;
+            this.bunifuSnackbar1.ErrorOptions.BorderColor = System.Drawing.Color.White;
+            this.bunifuSnackbar1.ErrorOptions.CloseIconColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(204)))), ((int)(((byte)(199)))));
+            this.bunifuSnackbar1.ErrorOptions.Font = new System.Drawing.Font("Segoe UI", 9.75F);
+            this.bunifuSnackbar1.ErrorOptions.ForeColor = System.Drawing.Color.Black;
+            this.bunifuSnackbar1.ErrorOptions.Icon = ((System.Drawing.Image)(resources.GetObject("resource.Icon")));
+            this.bunifuSnackbar1.ErrorOptions.IconLeftMargin = 12;
+            this.bunifuSnackbar1.FadeCloseIcon = false;
+            this.bunifuSnackbar1.Host = Bunifu.UI.WinForms.BunifuSnackbar.Hosts.FormOwner;
+            this.bunifuSnackbar1.InformationOptions.ActionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
+            this.bunifuSnackbar1.InformationOptions.ActionBorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
+            this.bunifuSnackbar1.InformationOptions.ActionBorderRadius = 1;
+            this.bunifuSnackbar1.InformationOptions.ActionFont = new System.Drawing.Font("Segoe UI", 8.25F, System.Drawing.FontStyle.Bold);
+            this.bunifuSnackbar1.InformationOptions.ActionForeColor = System.Drawing.Color.Black;
+            this.bunifuSnackbar1.InformationOptions.BackColor = System.Drawing.Color.White;
+            this.bunifuSnackbar1.InformationOptions.BorderColor = System.Drawing.Color.White;
+            this.bunifuSnackbar1.InformationOptions.CloseIconColor = System.Drawing.Color.FromArgb(((int)(((byte)(145)))), ((int)(((byte)(213)))), ((int)(((byte)(255)))));
+            this.bunifuSnackbar1.InformationOptions.Font = new System.Drawing.Font("Segoe UI", 9.75F);
+            this.bunifuSnackbar1.InformationOptions.ForeColor = System.Drawing.Color.Black;
+            this.bunifuSnackbar1.InformationOptions.Icon = ((System.Drawing.Image)(resources.GetObject("resource.Icon1")));
+            this.bunifuSnackbar1.InformationOptions.IconLeftMargin = 12;
+            this.bunifuSnackbar1.Margin = 10;
+            this.bunifuSnackbar1.MaximumSize = new System.Drawing.Size(0, 0);
+            this.bunifuSnackbar1.MaximumViews = 7;
+            this.bunifuSnackbar1.MessageRightMargin = 15;
+            this.bunifuSnackbar1.MinimumSize = new System.Drawing.Size(0, 0);
+            this.bunifuSnackbar1.ShowBorders = false;
+            this.bunifuSnackbar1.ShowCloseIcon = false;
+            this.bunifuSnackbar1.ShowIcon = true;
+            this.bunifuSnackbar1.ShowShadows = true;
+            this.bunifuSnackbar1.SuccessOptions.ActionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
+            this.bunifuSnackbar1.SuccessOptions.ActionBorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
+            this.bunifuSnackbar1.SuccessOptions.ActionBorderRadius = 1;
+            this.bunifuSnackbar1.SuccessOptions.ActionFont = new System.Drawing.Font("Segoe UI", 8.25F, System.Drawing.FontStyle.Bold);
+            this.bunifuSnackbar1.SuccessOptions.ActionForeColor = System.Drawing.Color.Black;
+            this.bunifuSnackbar1.SuccessOptions.BackColor = System.Drawing.Color.White;
+            this.bunifuSnackbar1.SuccessOptions.BorderColor = System.Drawing.Color.White;
+            this.bunifuSnackbar1.SuccessOptions.CloseIconColor = System.Drawing.Color.FromArgb(((int)(((byte)(246)))), ((int)(((byte)(255)))), ((int)(((byte)(237)))));
+            this.bunifuSnackbar1.SuccessOptions.Font = new System.Drawing.Font("Segoe UI", 9.75F);
+            this.bunifuSnackbar1.SuccessOptions.ForeColor = System.Drawing.Color.Black;
+            this.bunifuSnackbar1.SuccessOptions.Icon = ((System.Drawing.Image)(resources.GetObject("resource.Icon2")));
+            this.bunifuSnackbar1.SuccessOptions.IconLeftMargin = 12;
+            this.bunifuSnackbar1.ViewsMargin = 7;
+            this.bunifuSnackbar1.WarningOptions.ActionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
+            this.bunifuSnackbar1.WarningOptions.ActionBorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
+            this.bunifuSnackbar1.WarningOptions.ActionBorderRadius = 1;
+            this.bunifuSnackbar1.WarningOptions.ActionFont = new System.Drawing.Font("Segoe UI", 8.25F, System.Drawing.FontStyle.Bold);
+            this.bunifuSnackbar1.WarningOptions.ActionForeColor = System.Drawing.Color.Black;
+            this.bunifuSnackbar1.WarningOptions.BackColor = System.Drawing.Color.White;
+            this.bunifuSnackbar1.WarningOptions.BorderColor = System.Drawing.Color.White;
+            this.bunifuSnackbar1.WarningOptions.CloseIconColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(229)))), ((int)(((byte)(143)))));
+            this.bunifuSnackbar1.WarningOptions.Font = new System.Drawing.Font("Segoe UI", 9.75F);
+            this.bunifuSnackbar1.WarningOptions.ForeColor = System.Drawing.Color.Black;
+            this.bunifuSnackbar1.WarningOptions.Icon = ((System.Drawing.Image)(resources.GetObject("resource.Icon3")));
+            this.bunifuSnackbar1.WarningOptions.IconLeftMargin = 12;
+            this.bunifuSnackbar1.ZoomCloseIcon = true;
+            // 
+            // validationProvider1
+            // 
+            this.validationProvider1.ErrorColor = System.Drawing.Color.Crimson;
+            // 
+            // iconButton5
+            // 
+            this.iconButton5.BackColor = System.Drawing.Color.Green;
+            this.iconButton5.FlatAppearance.BorderSize = 0;
+            this.iconButton5.FlatAppearance.CheckedBackColor = System.Drawing.Color.Green;
+            this.iconButton5.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Green;
+            this.iconButton5.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Green;
+            this.iconButton5.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.iconButton5.ForeColor = System.Drawing.Color.WhiteSmoke;
+            this.iconButton5.IconChar = FontAwesome.Sharp.IconChar.Lock;
+            this.iconButton5.IconColor = System.Drawing.Color.WhiteSmoke;
+            this.iconButton5.IconFont = FontAwesome.Sharp.IconFont.Auto;
+            this.iconButton5.IconSize = 25;
+            validationObject6.CustomErrorMessage = "";
+            validationObject6.Optional = false;
+            validationObject6.PropertyName = "Text";
+            validationObject6.Regex = null;
+            validationObject6.ValidationType = Kimtoo.ValidationProvider.ValidationTypes.None;
+            this.validationProvider1.SetLink(this.iconButton5, validationObject6);
+            this.iconButton5.Location = new System.Drawing.Point(15, 109);
+            this.iconButton5.Name = "iconButton5";
+            this.iconButton5.Size = new System.Drawing.Size(53, 39);
+            this.iconButton5.TabIndex = 14;
+            this.iconButton5.TabStop = false;
+            this.iconButton5.UseVisualStyleBackColor = false;
+            // 
+            // iconButton4
+            // 
+            this.iconButton4.BackColor = System.Drawing.Color.Green;
+            this.iconButton4.FlatAppearance.BorderSize = 0;
+            this.iconButton4.FlatAppearance.CheckedBackColor = System.Drawing.Color.Green;
+            this.iconButton4.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Green;
+            this.iconButton4.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Green;
+            this.iconButton4.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.iconButton4.ForeColor = System.Drawing.Color.WhiteSmoke;
+            this.iconButton4.IconChar = FontAwesome.Sharp.IconChar.UserAlt;
+            this.iconButton4.IconColor = System.Drawing.Color.WhiteSmoke;
+            this.iconButton4.IconFont = FontAwesome.Sharp.IconFont.Auto;
+            this.iconButton4.IconSize = 25;
+            validationObject7.CustomErrorMessage = "";
+            validationObject7.Optional = false;
+            validationObject7.PropertyName = "Text";
+            validationObject7.Regex = null;
+            validationObject7.ValidationType = Kimtoo.ValidationProvider.ValidationTypes.None;
+            this.validationProvider1.SetLink(this.iconButton4, validationObject7);
+            this.iconButton4.Location = new System.Drawing.Point(15, 30);
+            this.iconButton4.Name = "iconButton4";
+            this.iconButton4.Size = new System.Drawing.Size(53, 39);
+            this.iconButton4.TabIndex = 13;
+            this.iconButton4.TabStop = false;
+            this.iconButton4.UseVisualStyleBackColor = false;
+            // 
+            // bunifuCheckBox1
+            // 
+            this.bunifuCheckBox1.AllowBindingControlAnimation = true;
+            this.bunifuCheckBox1.AllowBindingControlColorChanges = false;
+            this.bunifuCheckBox1.AllowBindingControlLocation = true;
+            this.bunifuCheckBox1.AllowCheckBoxAnimation = false;
+            this.bunifuCheckBox1.AllowCheckmarkAnimation = true;
+            this.bunifuCheckBox1.AllowOnHoverStates = true;
+            this.bunifuCheckBox1.AutoCheck = true;
+            this.bunifuCheckBox1.BackColor = System.Drawing.Color.Transparent;
+            this.bunifuCheckBox1.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("bunifuCheckBox1.BackgroundImage")));
+            this.bunifuCheckBox1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
+            this.bunifuCheckBox1.BindingControlPosition = Bunifu.UI.WinForms.BunifuCheckBox.BindingControlPositions.Right;
+            this.bunifuCheckBox1.BorderRadius = 12;
+            this.bunifuCheckBox1.Checked = false;
+            this.bunifuCheckBox1.CheckState = Bunifu.UI.WinForms.BunifuCheckBox.CheckStates.Unchecked;
+            this.bunifuCheckBox1.Cursor = System.Windows.Forms.Cursors.Default;
+            this.bunifuCheckBox1.CustomCheckmarkImage = null;
+            validationObject9.CustomErrorMessage = "";
+            validationObject9.Optional = false;
+            validationObject9.PropertyName = "Text";
+            validationObject9.Regex = null;
+            validationObject9.ValidationType = Kimtoo.ValidationProvider.ValidationTypes.None;
+            this.validationProvider1.SetLink(this.bunifuCheckBox1, validationObject9);
+            this.bunifuCheckBox1.Location = new System.Drawing.Point(89, 167);
+            this.bunifuCheckBox1.MinimumSize = new System.Drawing.Size(17, 17);
+            this.bunifuCheckBox1.Name = "bunifuCheckBox1";
+            this.bunifuCheckBox1.OnCheck.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(0)))));
+            this.bunifuCheckBox1.OnCheck.BorderRadius = 12;
+            this.bunifuCheckBox1.OnCheck.BorderThickness = 2;
+            this.bunifuCheckBox1.OnCheck.CheckBoxColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(0)))));
+            this.bunifuCheckBox1.OnCheck.CheckmarkColor = System.Drawing.Color.White;
+            this.bunifuCheckBox1.OnCheck.CheckmarkThickness = 2;
+            this.bunifuCheckBox1.OnDisable.BorderColor = System.Drawing.Color.LightGray;
+            this.bunifuCheckBox1.OnDisable.BorderRadius = 12;
+            this.bunifuCheckBox1.OnDisable.BorderThickness = 2;
+            this.bunifuCheckBox1.OnDisable.CheckBoxColor = System.Drawing.Color.Transparent;
+            this.bunifuCheckBox1.OnDisable.CheckmarkColor = System.Drawing.Color.LightGray;
+            this.bunifuCheckBox1.OnDisable.CheckmarkThickness = 2;
+            this.bunifuCheckBox1.OnHoverChecked.BorderColor = System.Drawing.Color.Green;
+            this.bunifuCheckBox1.OnHoverChecked.BorderRadius = 12;
+            this.bunifuCheckBox1.OnHoverChecked.BorderThickness = 2;
+            this.bunifuCheckBox1.OnHoverChecked.CheckBoxColor = System.Drawing.Color.Green;
+            this.bunifuCheckBox1.OnHoverChecked.CheckmarkColor = System.Drawing.Color.White;
+            this.bunifuCheckBox1.OnHoverChecked.CheckmarkThickness = 2;
+            this.bunifuCheckBox1.OnHoverUnchecked.BorderColor = System.Drawing.Color.Green;
+            this.bunifuCheckBox1.OnHoverUnchecked.BorderRadius = 12;
+            this.bunifuCheckBox1.OnHoverUnchecked.BorderThickness = 1;
+            this.bunifuCheckBox1.OnHoverUnchecked.CheckBoxColor = System.Drawing.Color.Transparent;
+            this.bunifuCheckBox1.OnUncheck.BorderColor = System.Drawing.Color.DarkGray;
+            this.bunifuCheckBox1.OnUncheck.BorderRadius = 12;
+            this.bunifuCheckBox1.OnUncheck.BorderThickness = 1;
+            this.bunifuCheckBox1.OnUncheck.CheckBoxColor = System.Drawing.Color.Transparent;
+            this.bunifuCheckBox1.Size = new System.Drawing.Size(21, 21);
+            this.bunifuCheckBox1.Style = Bunifu.UI.WinForms.BunifuCheckBox.CheckBoxStyles.Flat;
+            this.bunifuCheckBox1.TabIndex = 5;
+            this.bunifuCheckBox1.ThreeState = false;
+            this.bunifuCheckBox1.ToolTipText = null;
+            // 
+            // bunifuLoginUser
+            // 
+            this.bunifuLoginUser.AcceptsReturn = false;
+            this.bunifuLoginUser.AcceptsTab = false;
+            this.bunifuLoginUser.AnimationSpeed = 200;
+            this.bunifuLoginUser.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.None;
+            this.bunifuLoginUser.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.None;
+            this.bunifuLoginUser.AutoSizeHeight = true;
+            this.bunifuLoginUser.BackColor = System.Drawing.Color.White;
+            this.bunifuLoginUser.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("bunifuLoginUser.BackgroundImage")));
+            this.bunifuLoginUser.BorderColorActive = System.Drawing.Color.Green;
+            this.bunifuLoginUser.BorderColorDisabled = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(204)))), ((int)(((byte)(204)))));
+            this.bunifuLoginUser.BorderColorHover = System.Drawing.Color.Green;
+            this.bunifuLoginUser.BorderColorIdle = System.Drawing.Color.Silver;
+            this.bunifuLoginUser.BorderRadius = 1;
+            this.bunifuLoginUser.BorderThickness = 1;
+            this.bunifuLoginUser.CharacterCasing = System.Windows.Forms.CharacterCasing.Normal;
+            this.bunifuLoginUser.Cursor = System.Windows.Forms.Cursors.IBeam;
+            this.bunifuLoginUser.DefaultFont = new System.Drawing.Font("Segoe UI", 9.25F);
+            this.bunifuLoginUser.DefaultText = "";
+            this.bunifuLoginUser.FillColor = System.Drawing.Color.White;
+            this.bunifuLoginUser.HideSelection = true;
+            this.bunifuLoginUser.IconLeft = null;
+            this.bunifuLoginUser.IconLeftCursor = System.Windows.Forms.Cursors.IBeam;
+            this.bunifuLoginUser.IconPadding = 10;
+            this.bunifuLoginUser.IconRight = null;
+            this.bunifuLoginUser.IconRightCursor = System.Windows.Forms.Cursors.IBeam;
+            this.bunifuLoginUser.Lines = new string[0];
+            validationObject10.CustomErrorMessage = "";
+            validationObject10.Optional = false;
+            validationObject10.PropertyName = "Text";
+            validationObject10.Regex = "^(?=[a-zA-Z0-9._]{8,20}$)(?!.*[_.]{2})[^_.].*[^_.]$";
+            validationObject10.ValidationType = Kimtoo.ValidationProvider.ValidationTypes.Username;
+            this.validationProvider1.SetLink(this.bunifuLoginUser, validationObject10);
+            this.bunifuLoginUser.Location = new System.Drawing.Point(67, 29);
+            this.bunifuLoginUser.MaxLength = 32767;
+            this.bunifuLoginUser.MinimumSize = new System.Drawing.Size(1, 1);
+            this.bunifuLoginUser.Modified = false;
+            this.bunifuLoginUser.Multiline = false;
+            this.bunifuLoginUser.Name = "bunifuLoginUser";
+            stateProperties1.BorderColor = System.Drawing.Color.Green;
+            stateProperties1.FillColor = System.Drawing.Color.Empty;
+            stateProperties1.ForeColor = System.Drawing.Color.Empty;
+            stateProperties1.PlaceholderForeColor = System.Drawing.Color.Empty;
+            this.bunifuLoginUser.OnActiveState = stateProperties1;
+            stateProperties2.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(204)))), ((int)(((byte)(204)))));
+            stateProperties2.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(240)))), ((int)(((byte)(240)))), ((int)(((byte)(240)))));
+            stateProperties2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
+            stateProperties2.PlaceholderForeColor = System.Drawing.Color.DarkGray;
+            this.bunifuLoginUser.OnDisabledState = stateProperties2;
+            stateProperties3.BorderColor = System.Drawing.Color.Green;
+            stateProperties3.FillColor = System.Drawing.Color.Empty;
+            stateProperties3.ForeColor = System.Drawing.Color.Empty;
+            stateProperties3.PlaceholderForeColor = System.Drawing.Color.Empty;
+            this.bunifuLoginUser.OnHoverState = stateProperties3;
+            stateProperties4.BorderColor = System.Drawing.Color.Silver;
+            stateProperties4.FillColor = System.Drawing.Color.White;
+            stateProperties4.ForeColor = System.Drawing.Color.Empty;
+            stateProperties4.PlaceholderForeColor = System.Drawing.Color.Empty;
+            this.bunifuLoginUser.OnIdleState = stateProperties4;
+            this.bunifuLoginUser.Padding = new System.Windows.Forms.Padding(3);
+            this.bunifuLoginUser.PasswordChar = '\0';
+            this.bunifuLoginUser.PlaceholderForeColor = System.Drawing.Color.Silver;
+            this.bunifuLoginUser.PlaceholderText = "Your username";
+            this.bunifuLoginUser.ReadOnly = false;
+            this.bunifuLoginUser.ScrollBars = System.Windows.Forms.ScrollBars.None;
+            this.bunifuLoginUser.SelectedText = "";
+            this.bunifuLoginUser.SelectionLength = 0;
+            this.bunifuLoginUser.SelectionStart = 0;
+            this.bunifuLoginUser.ShortcutsEnabled = true;
+            this.bunifuLoginUser.Size = new System.Drawing.Size(316, 41);
+            this.bunifuLoginUser.Style = Bunifu.UI.WinForms.BunifuTextBox._Style.Bunifu;
+            this.bunifuLoginUser.TabIndex = 1;
+            this.bunifuLoginUser.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
+            this.bunifuLoginUser.TextMarginBottom = 0;
+            this.bunifuLoginUser.TextMarginLeft = 3;
+            this.bunifuLoginUser.TextMarginTop = 1;
+            this.bunifuLoginUser.TextPlaceholder = "Your username";
+            this.bunifuLoginUser.UseSystemPasswordChar = false;
+            this.bunifuLoginUser.WordWrap = true;
+            // 
+            // bunifuPassUser
+            // 
+            this.bunifuPassUser.AcceptsReturn = false;
+            this.bunifuPassUser.AcceptsTab = false;
+            this.bunifuPassUser.AnimationSpeed = 200;
+            this.bunifuPassUser.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.None;
+            this.bunifuPassUser.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.None;
+            this.bunifuPassUser.AutoSizeHeight = true;
+            this.bunifuPassUser.BackColor = System.Drawing.Color.Transparent;
+            this.bunifuPassUser.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("bunifuPassUser.BackgroundImage")));
+            this.bunifuPassUser.BorderColorActive = System.Drawing.Color.Green;
+            this.bunifuPassUser.BorderColorDisabled = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(204)))), ((int)(((byte)(204)))));
+            this.bunifuPassUser.BorderColorHover = System.Drawing.Color.Green;
+            this.bunifuPassUser.BorderColorIdle = System.Drawing.Color.Silver;
+            this.bunifuPassUser.BorderRadius = 1;
+            this.bunifuPassUser.BorderThickness = 1;
+            this.bunifuPassUser.CharacterCasing = System.Windows.Forms.CharacterCasing.Normal;
+            this.bunifuPassUser.Cursor = System.Windows.Forms.Cursors.IBeam;
+            this.bunifuPassUser.DefaultFont = new System.Drawing.Font("Segoe UI", 9.25F);
+            this.bunifuPassUser.DefaultText = "";
+            this.bunifuPassUser.FillColor = System.Drawing.Color.White;
+            this.bunifuPassUser.HideSelection = true;
+            this.bunifuPassUser.IconLeft = null;
+            this.bunifuPassUser.IconLeftCursor = System.Windows.Forms.Cursors.IBeam;
+            this.bunifuPassUser.IconPadding = 10;
+            this.bunifuPassUser.IconRight = null;
+            this.bunifuPassUser.IconRightCursor = System.Windows.Forms.Cursors.IBeam;
+            this.bunifuPassUser.Lines = new string[0];
+            validationObject11.CustomErrorMessage = "";
+            validationObject11.Optional = false;
+            validationObject11.PropertyName = "Text";
+            validationObject11.Regex = "(?=.*[A-Za-z])(?=.*\\d)[A-Za-z\\d]{6,}$";
+            validationObject11.ValidationType = Kimtoo.ValidationProvider.ValidationTypes.Password;
+            this.validationProvider1.SetLink(this.bunifuPassUser, validationObject11);
+            this.bunifuPassUser.Location = new System.Drawing.Point(67, 108);
+            this.bunifuPassUser.MaxLength = 32767;
+            this.bunifuPassUser.MinimumSize = new System.Drawing.Size(1, 1);
+            this.bunifuPassUser.Modified = false;
+            this.bunifuPassUser.Multiline = false;
+            this.bunifuPassUser.Name = "bunifuPassUser";
+            stateProperties5.BorderColor = System.Drawing.Color.Green;
+            stateProperties5.FillColor = System.Drawing.Color.Empty;
+            stateProperties5.ForeColor = System.Drawing.Color.Empty;
+            stateProperties5.PlaceholderForeColor = System.Drawing.Color.Empty;
+            this.bunifuPassUser.OnActiveState = stateProperties5;
+            stateProperties6.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(204)))), ((int)(((byte)(204)))));
+            stateProperties6.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(240)))), ((int)(((byte)(240)))), ((int)(((byte)(240)))));
+            stateProperties6.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
+            stateProperties6.PlaceholderForeColor = System.Drawing.Color.DarkGray;
+            this.bunifuPassUser.OnDisabledState = stateProperties6;
+            stateProperties7.BorderColor = System.Drawing.Color.Green;
+            stateProperties7.FillColor = System.Drawing.Color.Empty;
+            stateProperties7.ForeColor = System.Drawing.Color.Empty;
+            stateProperties7.PlaceholderForeColor = System.Drawing.Color.Empty;
+            this.bunifuPassUser.OnHoverState = stateProperties7;
+            stateProperties8.BorderColor = System.Drawing.Color.Silver;
+            stateProperties8.FillColor = System.Drawing.Color.White;
+            stateProperties8.ForeColor = System.Drawing.Color.Empty;
+            stateProperties8.PlaceholderForeColor = System.Drawing.Color.Empty;
+            this.bunifuPassUser.OnIdleState = stateProperties8;
+            this.bunifuPassUser.Padding = new System.Windows.Forms.Padding(3);
+            this.bunifuPassUser.PasswordChar = '\0';
+            this.bunifuPassUser.PlaceholderForeColor = System.Drawing.Color.Silver;
+            this.bunifuPassUser.PlaceholderText = "Your password";
+            this.bunifuPassUser.ReadOnly = false;
+            this.bunifuPassUser.ScrollBars = System.Windows.Forms.ScrollBars.None;
+            this.bunifuPassUser.SelectedText = "";
+            this.bunifuPassUser.SelectionLength = 0;
+            this.bunifuPassUser.SelectionStart = 0;
+            this.bunifuPassUser.ShortcutsEnabled = true;
+            this.bunifuPassUser.Size = new System.Drawing.Size(316, 41);
+            this.bunifuPassUser.Style = Bunifu.UI.WinForms.BunifuTextBox._Style.Bunifu;
+            this.bunifuPassUser.TabIndex = 2;
+            this.bunifuPassUser.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
+            this.bunifuPassUser.TextMarginBottom = 0;
+            this.bunifuPassUser.TextMarginLeft = 3;
+            this.bunifuPassUser.TextMarginTop = 1;
+            this.bunifuPassUser.TextPlaceholder = "Your password";
+            this.bunifuPassUser.UseSystemPasswordChar = false;
+            this.bunifuPassUser.WordWrap = true;
+            // 
+            // iconButton3
+            // 
+            this.iconButton3.BackColor = System.Drawing.Color.Green;
+            this.iconButton3.FlatAppearance.BorderSize = 0;
+            this.iconButton3.FlatAppearance.CheckedBackColor = System.Drawing.Color.Green;
+            this.iconButton3.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Green;
+            this.iconButton3.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Green;
+            this.iconButton3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.iconButton3.ForeColor = System.Drawing.Color.WhiteSmoke;
+            this.iconButton3.IconChar = FontAwesome.Sharp.IconChar.Key;
+            this.iconButton3.IconColor = System.Drawing.Color.WhiteSmoke;
+            this.iconButton3.IconFont = FontAwesome.Sharp.IconFont.Auto;
+            this.iconButton3.IconSize = 25;
+            validationObject13.CustomErrorMessage = "";
+            validationObject13.Optional = false;
+            validationObject13.PropertyName = "Text";
+            validationObject13.Regex = null;
+            validationObject13.ValidationType = Kimtoo.ValidationProvider.ValidationTypes.None;
+            this.validationProvider1.SetLink(this.iconButton3, validationObject13);
+            this.iconButton3.Location = new System.Drawing.Point(16, 152);
+            this.iconButton3.Name = "iconButton3";
+            this.iconButton3.Size = new System.Drawing.Size(53, 39);
+            this.iconButton3.TabIndex = 13;
+            this.iconButton3.TabStop = false;
+            this.iconButton3.UseVisualStyleBackColor = false;
+            // 
+            // iconButton1
+            // 
+            this.iconButton1.BackColor = System.Drawing.Color.Green;
+            this.iconButton1.FlatAppearance.BorderSize = 0;
+            this.iconButton1.FlatAppearance.CheckedBackColor = System.Drawing.Color.Green;
+            this.iconButton1.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Green;
+            this.iconButton1.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Green;
+            this.iconButton1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.iconButton1.ForeColor = System.Drawing.Color.WhiteSmoke;
+            this.iconButton1.IconChar = FontAwesome.Sharp.IconChar.UserAlt;
+            this.iconButton1.IconColor = System.Drawing.Color.WhiteSmoke;
+            this.iconButton1.IconFont = FontAwesome.Sharp.IconFont.Auto;
+            this.iconButton1.IconSize = 25;
+            validationObject14.CustomErrorMessage = "";
+            validationObject14.Optional = false;
+            validationObject14.PropertyName = "Text";
+            validationObject14.Regex = null;
+            validationObject14.ValidationType = Kimtoo.ValidationProvider.ValidationTypes.None;
+            this.validationProvider1.SetLink(this.iconButton1, validationObject14);
+            this.iconButton1.Location = new System.Drawing.Point(16, 30);
+            this.iconButton1.Name = "iconButton1";
+            this.iconButton1.Size = new System.Drawing.Size(53, 39);
+            this.iconButton1.TabIndex = 12;
+            this.iconButton1.TabStop = false;
+            this.iconButton1.UseVisualStyleBackColor = false;
+            // 
+            // iconButton2
+            // 
+            this.iconButton2.BackColor = System.Drawing.Color.Green;
+            this.iconButton2.FlatAppearance.BorderSize = 0;
+            this.iconButton2.FlatAppearance.CheckedBackColor = System.Drawing.Color.Green;
+            this.iconButton2.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Green;
+            this.iconButton2.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Green;
+            this.iconButton2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.iconButton2.ForeColor = System.Drawing.Color.WhiteSmoke;
+            this.iconButton2.IconChar = FontAwesome.Sharp.IconChar.Lock;
+            this.iconButton2.IconColor = System.Drawing.Color.WhiteSmoke;
+            this.iconButton2.IconFont = FontAwesome.Sharp.IconFont.Auto;
+            this.iconButton2.IconSize = 25;
+            validationObject15.CustomErrorMessage = "";
+            validationObject15.Optional = false;
+            validationObject15.PropertyName = "Text";
+            validationObject15.Regex = null;
+            validationObject15.ValidationType = Kimtoo.ValidationProvider.ValidationTypes.None;
+            this.validationProvider1.SetLink(this.iconButton2, validationObject15);
+            this.iconButton2.Location = new System.Drawing.Point(16, 88);
+            this.iconButton2.Name = "iconButton2";
+            this.iconButton2.Size = new System.Drawing.Size(53, 39);
+            this.iconButton2.TabIndex = 11;
+            this.iconButton2.TabStop = false;
+            this.iconButton2.UseVisualStyleBackColor = false;
+            // 
+            // bunifuLicenseRegister
+            // 
+            this.bunifuLicenseRegister.AcceptsReturn = false;
+            this.bunifuLicenseRegister.AcceptsTab = false;
+            this.bunifuLicenseRegister.AnimationSpeed = 200;
+            this.bunifuLicenseRegister.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.None;
+            this.bunifuLicenseRegister.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.None;
+            this.bunifuLicenseRegister.AutoSizeHeight = true;
+            this.bunifuLicenseRegister.BackColor = System.Drawing.Color.Transparent;
+            this.bunifuLicenseRegister.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("bunifuLicenseRegister.BackgroundImage")));
+            this.bunifuLicenseRegister.BorderColorActive = System.Drawing.Color.Green;
+            this.bunifuLicenseRegister.BorderColorDisabled = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(204)))), ((int)(((byte)(204)))));
+            this.bunifuLicenseRegister.BorderColorHover = System.Drawing.Color.Green;
+            this.bunifuLicenseRegister.BorderColorIdle = System.Drawing.Color.Silver;
+            this.bunifuLicenseRegister.BorderRadius = 1;
+            this.bunifuLicenseRegister.BorderThickness = 1;
+            this.bunifuLicenseRegister.CharacterCasing = System.Windows.Forms.CharacterCasing.Normal;
+            this.bunifuLicenseRegister.Cursor = System.Windows.Forms.Cursors.IBeam;
+            this.bunifuLicenseRegister.DefaultFont = new System.Drawing.Font("Segoe UI", 9.25F);
+            this.bunifuLicenseRegister.DefaultText = "";
+            this.bunifuLicenseRegister.FillColor = System.Drawing.Color.White;
+            this.bunifuLicenseRegister.HideSelection = true;
+            this.bunifuLicenseRegister.IconLeft = null;
+            this.bunifuLicenseRegister.IconLeftCursor = System.Windows.Forms.Cursors.IBeam;
+            this.bunifuLicenseRegister.IconPadding = 10;
+            this.bunifuLicenseRegister.IconRight = null;
+            this.bunifuLicenseRegister.IconRightCursor = System.Windows.Forms.Cursors.IBeam;
+            this.bunifuLicenseRegister.Lines = new string[0];
+            validationObject16.CustomErrorMessage = "";
+            validationObject16.Optional = false;
+            validationObject16.PropertyName = "Text";
+            validationObject16.Regex = "(.|\\s)*\\S(.|\\s)*";
+            validationObject16.ValidationType = Kimtoo.ValidationProvider.ValidationTypes.NotEmpty;
+            this.validationProvider1.SetLink(this.bunifuLicenseRegister, validationObject16);
+            this.bunifuLicenseRegister.Location = new System.Drawing.Point(67, 151);
+            this.bunifuLicenseRegister.MaxLength = 32767;
+            this.bunifuLicenseRegister.MinimumSize = new System.Drawing.Size(1, 1);
+            this.bunifuLicenseRegister.Modified = false;
+            this.bunifuLicenseRegister.Multiline = false;
+            this.bunifuLicenseRegister.Name = "bunifuLicenseRegister";
+            stateProperties9.BorderColor = System.Drawing.Color.Green;
+            stateProperties9.FillColor = System.Drawing.Color.Empty;
+            stateProperties9.ForeColor = System.Drawing.Color.Empty;
+            stateProperties9.PlaceholderForeColor = System.Drawing.Color.Empty;
+            this.bunifuLicenseRegister.OnActiveState = stateProperties9;
+            stateProperties10.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(204)))), ((int)(((byte)(204)))));
+            stateProperties10.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(240)))), ((int)(((byte)(240)))), ((int)(((byte)(240)))));
+            stateProperties10.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
+            stateProperties10.PlaceholderForeColor = System.Drawing.Color.DarkGray;
+            this.bunifuLicenseRegister.OnDisabledState = stateProperties10;
+            stateProperties11.BorderColor = System.Drawing.Color.Green;
+            stateProperties11.FillColor = System.Drawing.Color.Empty;
+            stateProperties11.ForeColor = System.Drawing.Color.Empty;
+            stateProperties11.PlaceholderForeColor = System.Drawing.Color.Empty;
+            this.bunifuLicenseRegister.OnHoverState = stateProperties11;
+            stateProperties12.BorderColor = System.Drawing.Color.Silver;
+            stateProperties12.FillColor = System.Drawing.Color.White;
+            stateProperties12.ForeColor = System.Drawing.Color.Empty;
+            stateProperties12.PlaceholderForeColor = System.Drawing.Color.Empty;
+            this.bunifuLicenseRegister.OnIdleState = stateProperties12;
+            this.bunifuLicenseRegister.Padding = new System.Windows.Forms.Padding(3);
+            this.bunifuLicenseRegister.PasswordChar = '\0';
+            this.bunifuLicenseRegister.PlaceholderForeColor = System.Drawing.Color.Silver;
+            this.bunifuLicenseRegister.PlaceholderText = "Your license key";
+            this.bunifuLicenseRegister.ReadOnly = false;
+            this.bunifuLicenseRegister.ScrollBars = System.Windows.Forms.ScrollBars.None;
+            this.bunifuLicenseRegister.SelectedText = "";
+            this.bunifuLicenseRegister.SelectionLength = 0;
+            this.bunifuLicenseRegister.SelectionStart = 0;
+            this.bunifuLicenseRegister.ShortcutsEnabled = true;
+            this.bunifuLicenseRegister.Size = new System.Drawing.Size(316, 41);
+            this.bunifuLicenseRegister.Style = Bunifu.UI.WinForms.BunifuTextBox._Style.Bunifu;
+            this.bunifuLicenseRegister.TabIndex = 9;
+            this.bunifuLicenseRegister.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
+            this.bunifuLicenseRegister.TextMarginBottom = 0;
+            this.bunifuLicenseRegister.TextMarginLeft = 3;
+            this.bunifuLicenseRegister.TextMarginTop = 1;
+            this.bunifuLicenseRegister.TextPlaceholder = "Your license key";
+            this.bunifuLicenseRegister.UseSystemPasswordChar = false;
+            this.bunifuLicenseRegister.WordWrap = true;
+            // 
+            // bunifuUserRegister
+            // 
+            this.bunifuUserRegister.AcceptsReturn = false;
+            this.bunifuUserRegister.AcceptsTab = false;
+            this.bunifuUserRegister.AnimationSpeed = 200;
+            this.bunifuUserRegister.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.None;
+            this.bunifuUserRegister.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.None;
+            this.bunifuUserRegister.AutoSizeHeight = true;
+            this.bunifuUserRegister.BackColor = System.Drawing.Color.White;
+            this.bunifuUserRegister.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("bunifuUserRegister.BackgroundImage")));
+            this.bunifuUserRegister.BorderColorActive = System.Drawing.Color.Green;
+            this.bunifuUserRegister.BorderColorDisabled = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(204)))), ((int)(((byte)(204)))));
+            this.bunifuUserRegister.BorderColorHover = System.Drawing.Color.Green;
+            this.bunifuUserRegister.BorderColorIdle = System.Drawing.Color.Silver;
+            this.bunifuUserRegister.BorderRadius = 1;
+            this.bunifuUserRegister.BorderThickness = 1;
+            this.bunifuUserRegister.CharacterCasing = System.Windows.Forms.CharacterCasing.Normal;
+            this.bunifuUserRegister.Cursor = System.Windows.Forms.Cursors.IBeam;
+            this.bunifuUserRegister.DefaultFont = new System.Drawing.Font("Segoe UI", 9.25F);
+            this.bunifuUserRegister.DefaultText = "";
+            this.bunifuUserRegister.FillColor = System.Drawing.Color.White;
+            this.bunifuUserRegister.HideSelection = true;
+            this.bunifuUserRegister.IconLeft = null;
+            this.bunifuUserRegister.IconLeftCursor = System.Windows.Forms.Cursors.IBeam;
+            this.bunifuUserRegister.IconPadding = 10;
+            this.bunifuUserRegister.IconRight = null;
+            this.bunifuUserRegister.IconRightCursor = System.Windows.Forms.Cursors.IBeam;
+            this.bunifuUserRegister.Lines = new string[0];
+            validationObject20.CustomErrorMessage = "";
+            validationObject20.Optional = false;
+            validationObject20.PropertyName = "Text";
+            validationObject20.Regex = "^(?=[a-zA-Z0-9._]{8,20}$)(?!.*[_.]{2})[^_.].*[^_.]$";
+            validationObject20.ValidationType = Kimtoo.ValidationProvider.ValidationTypes.Username;
+            this.validationProvider1.SetLink(this.bunifuUserRegister, validationObject20);
+            this.bunifuUserRegister.Location = new System.Drawing.Point(67, 29);
+            this.bunifuUserRegister.MaxLength = 32767;
+            this.bunifuUserRegister.MinimumSize = new System.Drawing.Size(1, 1);
+            this.bunifuUserRegister.Modified = false;
+            this.bunifuUserRegister.Multiline = false;
+            this.bunifuUserRegister.Name = "bunifuUserRegister";
+            stateProperties13.BorderColor = System.Drawing.Color.Green;
+            stateProperties13.FillColor = System.Drawing.Color.Empty;
+            stateProperties13.ForeColor = System.Drawing.Color.Empty;
+            stateProperties13.PlaceholderForeColor = System.Drawing.Color.Empty;
+            this.bunifuUserRegister.OnActiveState = stateProperties13;
+            stateProperties14.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(204)))), ((int)(((byte)(204)))));
+            stateProperties14.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(240)))), ((int)(((byte)(240)))), ((int)(((byte)(240)))));
+            stateProperties14.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
+            stateProperties14.PlaceholderForeColor = System.Drawing.Color.DarkGray;
+            this.bunifuUserRegister.OnDisabledState = stateProperties14;
+            stateProperties15.BorderColor = System.Drawing.Color.Green;
+            stateProperties15.FillColor = System.Drawing.Color.Empty;
+            stateProperties15.ForeColor = System.Drawing.Color.Empty;
+            stateProperties15.PlaceholderForeColor = System.Drawing.Color.Empty;
+            this.bunifuUserRegister.OnHoverState = stateProperties15;
+            stateProperties16.BorderColor = System.Drawing.Color.Silver;
+            stateProperties16.FillColor = System.Drawing.Color.White;
+            stateProperties16.ForeColor = System.Drawing.Color.Empty;
+            stateProperties16.PlaceholderForeColor = System.Drawing.Color.Empty;
+            this.bunifuUserRegister.OnIdleState = stateProperties16;
+            this.bunifuUserRegister.Padding = new System.Windows.Forms.Padding(3);
+            this.bunifuUserRegister.PasswordChar = '\0';
+            this.bunifuUserRegister.PlaceholderForeColor = System.Drawing.Color.Silver;
+            this.bunifuUserRegister.PlaceholderText = "Your username";
+            this.bunifuUserRegister.ReadOnly = false;
+            this.bunifuUserRegister.ScrollBars = System.Windows.Forms.ScrollBars.None;
+            this.bunifuUserRegister.SelectedText = "";
+            this.bunifuUserRegister.SelectionLength = 0;
+            this.bunifuUserRegister.SelectionStart = 0;
+            this.bunifuUserRegister.ShortcutsEnabled = true;
+            this.bunifuUserRegister.Size = new System.Drawing.Size(316, 41);
+            this.bunifuUserRegister.Style = Bunifu.UI.WinForms.BunifuTextBox._Style.Bunifu;
+            this.bunifuUserRegister.TabIndex = 5;
+            this.bunifuUserRegister.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
+            this.bunifuUserRegister.TextMarginBottom = 0;
+            this.bunifuUserRegister.TextMarginLeft = 3;
+            this.bunifuUserRegister.TextMarginTop = 1;
+            this.bunifuUserRegister.TextPlaceholder = "Your username";
+            this.bunifuUserRegister.UseSystemPasswordChar = false;
+            this.bunifuUserRegister.WordWrap = true;
+            // 
+            // bunifuPassRegister
+            // 
+            this.bunifuPassRegister.AcceptsReturn = false;
+            this.bunifuPassRegister.AcceptsTab = false;
+            this.bunifuPassRegister.AnimationSpeed = 200;
+            this.bunifuPassRegister.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.None;
+            this.bunifuPassRegister.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.None;
+            this.bunifuPassRegister.AutoSizeHeight = true;
+            this.bunifuPassRegister.BackColor = System.Drawing.Color.Transparent;
+            this.bunifuPassRegister.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("bunifuPassRegister.BackgroundImage")));
+            this.bunifuPassRegister.BorderColorActive = System.Drawing.Color.Green;
+            this.bunifuPassRegister.BorderColorDisabled = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(204)))), ((int)(((byte)(204)))));
+            this.bunifuPassRegister.BorderColorHover = System.Drawing.Color.Green;
+            this.bunifuPassRegister.BorderColorIdle = System.Drawing.Color.Silver;
+            this.bunifuPassRegister.BorderRadius = 1;
+            this.bunifuPassRegister.BorderThickness = 1;
+            this.bunifuPassRegister.CharacterCasing = System.Windows.Forms.CharacterCasing.Normal;
+            this.bunifuPassRegister.Cursor = System.Windows.Forms.Cursors.IBeam;
+            this.bunifuPassRegister.DefaultFont = new System.Drawing.Font("Segoe UI", 9.25F);
+            this.bunifuPassRegister.DefaultText = "";
+            this.bunifuPassRegister.FillColor = System.Drawing.Color.White;
+            this.bunifuPassRegister.HideSelection = true;
+            this.bunifuPassRegister.IconLeft = null;
+            this.bunifuPassRegister.IconLeftCursor = System.Windows.Forms.Cursors.IBeam;
+            this.bunifuPassRegister.IconPadding = 10;
+            this.bunifuPassRegister.IconRight = null;
+            this.bunifuPassRegister.IconRightCursor = System.Windows.Forms.Cursors.IBeam;
+            this.bunifuPassRegister.Lines = new string[0];
+            validationObject21.CustomErrorMessage = "";
+            validationObject21.Optional = false;
+            validationObject21.PropertyName = "Text";
+            validationObject21.Regex = "(?=.*[A-Za-z])(?=.*\\d)[A-Za-z\\d]{6,}$";
+            validationObject21.ValidationType = Kimtoo.ValidationProvider.ValidationTypes.Password;
+            this.validationProvider1.SetLink(this.bunifuPassRegister, validationObject21);
+            this.bunifuPassRegister.Location = new System.Drawing.Point(67, 87);
+            this.bunifuPassRegister.MaxLength = 25;
+            this.bunifuPassRegister.MinimumSize = new System.Drawing.Size(1, 1);
+            this.bunifuPassRegister.Modified = false;
+            this.bunifuPassRegister.Multiline = false;
+            this.bunifuPassRegister.Name = "bunifuPassRegister";
+            stateProperties17.BorderColor = System.Drawing.Color.Green;
+            stateProperties17.FillColor = System.Drawing.Color.Empty;
+            stateProperties17.ForeColor = System.Drawing.Color.Empty;
+            stateProperties17.PlaceholderForeColor = System.Drawing.Color.Empty;
+            this.bunifuPassRegister.OnActiveState = stateProperties17;
+            stateProperties18.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(204)))), ((int)(((byte)(204)))));
+            stateProperties18.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(240)))), ((int)(((byte)(240)))), ((int)(((byte)(240)))));
+            stateProperties18.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
+            stateProperties18.PlaceholderForeColor = System.Drawing.Color.DarkGray;
+            this.bunifuPassRegister.OnDisabledState = stateProperties18;
+            stateProperties19.BorderColor = System.Drawing.Color.Green;
+            stateProperties19.FillColor = System.Drawing.Color.Empty;
+            stateProperties19.ForeColor = System.Drawing.Color.Empty;
+            stateProperties19.PlaceholderForeColor = System.Drawing.Color.Empty;
+            this.bunifuPassRegister.OnHoverState = stateProperties19;
+            stateProperties20.BorderColor = System.Drawing.Color.Silver;
+            stateProperties20.FillColor = System.Drawing.Color.White;
+            stateProperties20.ForeColor = System.Drawing.Color.Empty;
+            stateProperties20.PlaceholderForeColor = System.Drawing.Color.Empty;
+            this.bunifuPassRegister.OnIdleState = stateProperties20;
+            this.bunifuPassRegister.Padding = new System.Windows.Forms.Padding(3);
+            this.bunifuPassRegister.PasswordChar = '\0';
+            this.bunifuPassRegister.PlaceholderForeColor = System.Drawing.Color.Silver;
+            this.bunifuPassRegister.PlaceholderText = "Your password";
+            this.bunifuPassRegister.ReadOnly = false;
+            this.bunifuPassRegister.ScrollBars = System.Windows.Forms.ScrollBars.None;
+            this.bunifuPassRegister.SelectedText = "";
+            this.bunifuPassRegister.SelectionLength = 0;
+            this.bunifuPassRegister.SelectionStart = 0;
+            this.bunifuPassRegister.ShortcutsEnabled = true;
+            this.bunifuPassRegister.Size = new System.Drawing.Size(316, 41);
+            this.bunifuPassRegister.Style = Bunifu.UI.WinForms.BunifuTextBox._Style.Bunifu;
+            this.bunifuPassRegister.TabIndex = 6;
+            this.bunifuPassRegister.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
+            this.bunifuPassRegister.TextMarginBottom = 0;
+            this.bunifuPassRegister.TextMarginLeft = 3;
+            this.bunifuPassRegister.TextMarginTop = 1;
+            this.bunifuPassRegister.TextPlaceholder = "Your password";
+            this.bunifuPassRegister.UseSystemPasswordChar = false;
+            this.bunifuPassRegister.WordWrap = true;
+            // 
+            // bunifuButton21
+            // 
+            this.bunifuButton21.AllowAnimations = true;
+            this.bunifuButton21.AllowMouseEffects = true;
+            this.bunifuButton21.AllowToggling = false;
+            this.bunifuButton21.AnimationSpeed = 200;
+            this.bunifuButton21.AutoGenerateColors = false;
+            this.bunifuButton21.AutoRoundBorders = false;
+            this.bunifuButton21.AutoSizeLeftIcon = true;
+            this.bunifuButton21.AutoSizeRightIcon = true;
+            this.bunifuButton21.BackColor = System.Drawing.Color.Transparent;
+            this.bunifuButton21.BackColor1 = System.Drawing.Color.Green;
+            this.bunifuButton21.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("bunifuButton21.BackgroundImage")));
+            this.bunifuButton21.BorderStyle = Bunifu.UI.WinForms.BunifuButton.BunifuButton2.BorderStyles.Solid;
+            this.bunifuButton21.ButtonText = "LOGIN";
+            this.bunifuButton21.ButtonTextMarginLeft = 0;
+            this.bunifuButton21.ColorContrastOnClick = 45;
+            this.bunifuButton21.ColorContrastOnHover = 45;
+            this.bunifuButton21.Cursor = System.Windows.Forms.Cursors.Default;
+            borderEdges1.BottomLeft = true;
+            borderEdges1.BottomRight = true;
+            borderEdges1.TopLeft = true;
+            borderEdges1.TopRight = true;
+            this.bunifuButton21.CustomizableEdges = borderEdges1;
+            this.bunifuButton21.DialogResult = System.Windows.Forms.DialogResult.None;
+            this.bunifuButton21.DisabledBorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(191)))), ((int)(((byte)(191)))));
+            this.bunifuButton21.DisabledFillColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(204)))), ((int)(((byte)(204)))));
+            this.bunifuButton21.DisabledForecolor = System.Drawing.Color.FromArgb(((int)(((byte)(168)))), ((int)(((byte)(160)))), ((int)(((byte)(168)))));
+            this.bunifuButton21.Dock = System.Windows.Forms.DockStyle.Bottom;
+            this.bunifuButton21.FocusState = Bunifu.UI.WinForms.BunifuButton.BunifuButton2.ButtonStates.Pressed;
+            this.bunifuButton21.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
+            this.bunifuButton21.ForeColor = System.Drawing.Color.White;
+            this.bunifuButton21.IconLeftAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.bunifuButton21.IconLeftCursor = System.Windows.Forms.Cursors.Default;
+            this.bunifuButton21.IconLeftPadding = new System.Windows.Forms.Padding(11, 3, 3, 3);
+            this.bunifuButton21.IconMarginLeft = 11;
+            this.bunifuButton21.IconPadding = 10;
+            this.bunifuButton21.IconRightAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.bunifuButton21.IconRightCursor = System.Windows.Forms.Cursors.Default;
+            this.bunifuButton21.IconRightPadding = new System.Windows.Forms.Padding(3, 3, 7, 3);
+            this.bunifuButton21.IconSize = 25;
+            this.bunifuButton21.IdleBorderColor = System.Drawing.Color.Green;
+            this.bunifuButton21.IdleBorderRadius = 1;
+            this.bunifuButton21.IdleBorderThickness = 1;
+            this.bunifuButton21.IdleFillColor = System.Drawing.Color.Green;
+            this.bunifuButton21.IdleIconLeftImage = null;
+            this.bunifuButton21.IdleIconRightImage = null;
+            this.bunifuButton21.IndicateFocus = false;
+            validationObject24.CustomErrorMessage = "";
+            validationObject24.Optional = false;
+            validationObject24.PropertyName = "Text";
+            validationObject24.Regex = null;
+            validationObject24.ValidationType = Kimtoo.ValidationProvider.ValidationTypes.None;
+            this.validationProvider1.SetLink(this.bunifuButton21, validationObject24);
+            this.bunifuButton21.Location = new System.Drawing.Point(0, 279);
+            this.bunifuButton21.Name = "bunifuButton21";
+            this.bunifuButton21.OnDisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(191)))), ((int)(((byte)(191)))));
+            this.bunifuButton21.OnDisabledState.BorderRadius = 1;
+            this.bunifuButton21.OnDisabledState.BorderStyle = Bunifu.UI.WinForms.BunifuButton.BunifuButton2.BorderStyles.Solid;
+            this.bunifuButton21.OnDisabledState.BorderThickness = 1;
+            this.bunifuButton21.OnDisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(204)))), ((int)(((byte)(204)))));
+            this.bunifuButton21.OnDisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(168)))), ((int)(((byte)(160)))), ((int)(((byte)(168)))));
+            this.bunifuButton21.OnDisabledState.IconLeftImage = null;
+            this.bunifuButton21.OnDisabledState.IconRightImage = null;
+            this.bunifuButton21.onHoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(114)))), ((int)(((byte)(185)))), ((int)(((byte)(114)))));
+            this.bunifuButton21.onHoverState.BorderRadius = 1;
+            this.bunifuButton21.onHoverState.BorderStyle = Bunifu.UI.WinForms.BunifuButton.BunifuButton2.BorderStyles.Solid;
+            this.bunifuButton21.onHoverState.BorderThickness = 1;
+            this.bunifuButton21.onHoverState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(114)))), ((int)(((byte)(185)))), ((int)(((byte)(114)))));
+            this.bunifuButton21.onHoverState.ForeColor = System.Drawing.Color.White;
+            this.bunifuButton21.onHoverState.IconLeftImage = null;
+            this.bunifuButton21.onHoverState.IconRightImage = null;
+            this.bunifuButton21.OnIdleState.BorderColor = System.Drawing.Color.Green;
+            this.bunifuButton21.OnIdleState.BorderRadius = 1;
+            this.bunifuButton21.OnIdleState.BorderStyle = Bunifu.UI.WinForms.BunifuButton.BunifuButton2.BorderStyles.Solid;
+            this.bunifuButton21.OnIdleState.BorderThickness = 1;
+            this.bunifuButton21.OnIdleState.FillColor = System.Drawing.Color.Green;
+            this.bunifuButton21.OnIdleState.ForeColor = System.Drawing.Color.White;
+            this.bunifuButton21.OnIdleState.IconLeftImage = null;
+            this.bunifuButton21.OnIdleState.IconRightImage = null;
+            this.bunifuButton21.OnPressedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(70)))), ((int)(((byte)(0)))));
+            this.bunifuButton21.OnPressedState.BorderRadius = 1;
+            this.bunifuButton21.OnPressedState.BorderStyle = Bunifu.UI.WinForms.BunifuButton.BunifuButton2.BorderStyles.Solid;
+            this.bunifuButton21.OnPressedState.BorderThickness = 1;
+            this.bunifuButton21.OnPressedState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(70)))), ((int)(((byte)(0)))));
+            this.bunifuButton21.OnPressedState.ForeColor = System.Drawing.Color.White;
+            this.bunifuButton21.OnPressedState.IconLeftImage = null;
+            this.bunifuButton21.OnPressedState.IconRightImage = null;
+            this.bunifuButton21.Size = new System.Drawing.Size(400, 39);
+            this.bunifuButton21.TabIndex = 6;
+            this.bunifuButton21.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.bunifuButton21.TextAlignment = System.Windows.Forms.HorizontalAlignment.Center;
+            this.bunifuButton21.TextMarginLeft = 0;
+            this.bunifuButton21.TextPadding = new System.Windows.Forms.Padding(0);
+            this.bunifuButton21.UseDefaultRadiusAndThickness = true;
+            this.bunifuButton21.Click += new System.EventHandler(this.bunifuButton21_Click);
+            // 
+            // buttonGroup1
+            // 
+            this.buttonGroup1.BackColorActive = System.Drawing.Color.Green;
+            this.buttonGroup1.ButtonSpacing = 60;
+            this.buttonGroup1.CurrentSelection = "Login";
+            this.buttonGroup1.Dock = System.Windows.Forms.DockStyle.Left;
+            this.buttonGroup1.FontActive = null;
+            this.buttonGroup1.ForeColor = System.Drawing.Color.WhiteSmoke;
+            this.buttonGroup1.ForeColorActive = System.Drawing.Color.Empty;
+            this.buttonGroup1.Items = new string[] {
+        "Login",
+        "Register"};
+            validationObject1.CustomErrorMessage = "";
+            validationObject1.Optional = false;
+            validationObject1.PropertyName = "Text";
+            validationObject1.Regex = null;
+            validationObject1.ValidationType = Kimtoo.ValidationProvider.ValidationTypes.None;
+            this.validationProvider1.SetLink(this.buttonGroup1, validationObject1);
+            this.buttonGroup1.Location = new System.Drawing.Point(0, 0);
+            this.buttonGroup1.Name = "buttonGroup1";
+            this.buttonGroup1.Orientation = Kimtoo.ButtonGroup.ButtongrupOrientation.Horizontal;
+            this.buttonGroup1.Size = new System.Drawing.Size(338, 54);
+            this.buttonGroup1.TabIndex = 2;
+            this.buttonGroup1.TabStop = false;
+            this.buttonGroup1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.buttonGroup1.OnSelectionChange += new System.EventHandler(this.buttonGroup1_OnSelectionChange);
+            // 
+            // Auth
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.WhiteSmoke;
+            this.ClientSize = new System.Drawing.Size(400, 318);
+            this.Controls.Add(this.bunifuPages1);
+            this.Controls.Add(this.bunifuButton21);
+            this.Controls.Add(this.panel1);
+            this.ForeColor = System.Drawing.SystemColors.ControlText;
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+            this.Name = "Auth";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "Form1";
+            this.panel1.ResumeLayout(false);
+            this.bunifuPages1.ResumeLayout(false);
+            this.tabPage1.ResumeLayout(false);
+            this.tabPage1.PerformLayout();
+            this.tabPage2.ResumeLayout(false);
+            this.tabPage2.PerformLayout();
+            this.ResumeLayout(false);
+
+        }
+
+        #endregion
+
+        private System.Windows.Forms.Panel panel1;
+        private Bunifu.UI.WinForms.BunifuTextBox bunifuLoginUser;
+        private Bunifu.UI.WinForms.BunifuTextBox bunifuPassUser;
+        private Bunifu.UI.WinForms.BunifuLabel bunifuLabel2;
+        private Bunifu.UI.WinForms.BunifuLabel bunifuLabel3;
+        private Bunifu.UI.WinForms.BunifuButton.BunifuButton2 bunifuButton21;
+        private Bunifu.UI.WinForms.BunifuPages bunifuPages1;
+        private System.Windows.Forms.TabPage tabPage1;
+        private System.Windows.Forms.TabPage tabPage2;
+        private Bunifu.Framework.UI.BunifuDragControl bunifuDragControl1;
+        private Bunifu.UI.WinForms.BunifuTextBox bunifuLicenseRegister;
+        private Bunifu.UI.WinForms.BunifuLabel bunifuLabel5;
+        private Bunifu.UI.WinForms.BunifuTextBox bunifuUserRegister;
+        private Bunifu.UI.WinForms.BunifuTextBox bunifuPassRegister;
+        private Bunifu.UI.WinForms.BunifuLabel bunifuLabel1;
+        private Bunifu.UI.WinForms.BunifuLabel bunifuLabel4;
+        private Bunifu.UI.WinForms.BunifuSnackbar bunifuSnackbar1;
+        private System.Windows.Forms.Button button1;
+        private Bunifu.UI.WinForms.BunifuCheckBox bunifuCheckBox1;
+        private Bunifu.UI.WinForms.BunifuLabel bunifuLabel6;
+        private Kimtoo.ValidationProvider.ValidationProvider validationProvider1;
+        private FontAwesome.Sharp.IconButton iconButton2;
+        private FontAwesome.Sharp.IconButton iconButton3;
+        private FontAwesome.Sharp.IconButton iconButton1;
+        private FontAwesome.Sharp.IconButton iconButton5;
+        private FontAwesome.Sharp.IconButton iconButton4;
+        private Kimtoo.ButtonGroup buttonGroup1;
+    }
+}
+
